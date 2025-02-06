@@ -1,6 +1,6 @@
 # Curso de Desenvolvimento de Sistemas
 
-![Desenvolvimento de Sistemas](https://source.unsplash.com/800x400/?technology,programming)
+![Desenvolvimento de Sistemas](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=800)
 
 ## Sobre o Curso
 O curso de Desenvolvimento de Sistemas é voltado para profissionais e estudantes que desejam aprender a planejar, desenvolver e administrar sistemas computacionais. O curso aborda desde a criação de algoritmos até a administração de banco de dados e desenvolvimento de interfaces gráficas.
@@ -57,6 +57,7 @@ Projeto final para consolidar todos os conhecimentos adquiridos no curso.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,4 +69,4 @@ Projeto final para consolidar todos os conhecimentos adquiridos no curso.
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=agile&logoColor=white)
 ![Metodologias Ágeis](https://img.shields.io/badge/Agile-222222?style=for-the-badge&logo=agile&logoColor=white)
 
-![Programação](https://source.unsplash.com/800x400/?coding,developer)
+![Programação](https://images.pexels.com/photos/1181269/pexels-photo-1181269.jpeg?auto=compress&cs=tinysrgb&w=800)
