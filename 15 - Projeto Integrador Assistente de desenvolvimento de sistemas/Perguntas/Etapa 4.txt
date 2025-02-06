@@ -1,0 +1,22 @@
+Etapa 4
+1) Para entregar sua Atividade, clique no título "Etapa 4";
+2) Role até o final da página;
+3) Vá até o botão "Carregar arquivos". Prontinho, agora é só selecionar o arquivo correto no seu dispositivo.
+*
+Etapa 4
+ 
+Contexto
+Seguindo com a implementação de seu projeto integrador (PI), chegou o momento de focar a lógica do programa e o acesso a dados. Nesta etapa, você pode recuperar o banco de dados elaborado no PI do módulo 1 ou criar um novo banco de dados. Você deve usar Java para conectar seu projeto com esse banco, que deve estar povoado com dados iniciais para teste. As funcionalidades relativas a dados (cadastros, consultas etc.) também devem ser desenvolvidas ou completadas; qualquer código provisório usado apenas para testes deve ser eliminado e substituído por código definitivo.
+ 
+Atividade
+Use o MySQL Workbench para desenvolver seu banco de dados ou ajustá-lo. Adapte seu projeto NetBeans trabalhado na etapa 3 para conectar-se ao banco de dados e implemente as funções necessárias. Finalize o projeto com os ajustes que julgar necessários.
+ 
+Entrega
+No espaço dedicado às entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) contendo o projeto NetBeans desenvolvido.
+ 
+Dica de leitura
+Para esta etapa, leia os conhecimentos da unidade curricular Programar aplicativos computacionais com integração de banco de dados para desktop.
+ 
+Avaliação
+Nesta atividade, você será avaliado no indicador:
+Elabora síntese do Projeto Integrador, respondendo às especificações do tema gerador.

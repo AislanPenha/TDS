@@ -1,0 +1,34 @@
+Etapa 5
+1) Para entregar sua Atividade, clique no título "Etapa 5";
+2) Role até o final da página;
+3) Vá até o botão "Carregar arquivos". Prontinho, agora é só selecionar o arquivo correto no seu dispositivo.
+*
+Etapa 5
+ 
+Contexto
+É importante que o projeto esteja protegido contra imprevistos e que seja de fácil compartilhamento para programação em times. Uma ferramenta indicada para isso é o sistema de versionamento GitHub.
+ 
+Conclua esta fase do projeto integrador (PI) incluindo seu projeto desktop desenvolvido em um repositório remoto no GitHub.
+ 
+Atividade
+Crie um repositório no GitHub e aplique os comandos de versionamento, incluindo o projeto Java desenvolvido nas etapas anteriores. Certifique-se de, caso faça alterações posteriores no código, realizar comandos de pull, push e commit.
+ 
+Também inclua no repositório um arquivo README.md com especificações do sistema:
+Título do projeto
+Status do projeto (em desenvolvimento)
+Tecnologias que serão aplicadas (considere apenas as tecnologias abordadas no curso)
+Time de desenvolvedores
+Objetivo do software (a que deve servir)
+Funcionalidades do sistema (requisitos)
+ 
+Colete evidências de seu processo de versionamento com print do repositório no GitHub e print do histórico de commits pelo GitHub Desktop ou Git Bash.
+ 
+Entrega
+No espaço dedicado às entregas da atividade, envie um arquivo DOC, DOCX ou PDF com evidências da criação e do uso do repositório GitHub criado para o projeto. Envie também uma cópia do arquivo README.md criado.
+ 
+Dica de leitura
+Para esta etapa, leia os conhecimentos da unidade curricular Gerenciar a configuração e versionamento de software.
+ 
+Avaliação
+Nesta atividade, você será avaliado no indicador:
+Articula as competências do curso no desenvolvimento do Projeto Integrador.

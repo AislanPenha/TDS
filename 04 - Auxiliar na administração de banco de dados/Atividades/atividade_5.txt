@@ -1,0 +1,119 @@
+use uc4atividade;
+
+db.produto.insertMany([
+    {
+		nome: 'Ventilador de mesa',
+        	descricao: 'Ventilador branco 40cm 110v',
+        	estoque: 5,
+        	fabricante: 'Bons Ventos'
+    },
+    {
+		nome: 'Ventilador de mesa',
+        	descricao: 'Ventilador branco 40cm 110v',
+        	estoque: 5,
+        	fabricante: 'Ultralar'
+    },
+    {
+		nome: 'Ventilador de mesa 220',
+        	descricao: 'Ventilador branco 40cm 220v',
+        	estoque: 5,
+        	fabricante: 'Bons Vento'
+    },
+    {
+		nome: 'Aspirador de pó',
+        	descricao: 'Aspira pó e agua 110v',
+        	estoque: 9,
+        	fabricante: 'Bons Vento'
+    },
+    {
+		nome: 'Aspirador de pó',
+        	descricao: 'Aspira pó e agua 110v',
+        	estoque: 3,
+        	fabricante: 'Ultralar'
+    },
+    {
+		nome: 'Aspirador de pó',
+        	descricao: 'Aspira pó e agua 110v',
+        	estoque: 3,
+        	fabricante: 'Mundiale'
+    },
+    {
+		nome: 'Batedeira planetária',
+        	descricao: 'Cor Branca 110v',
+        	estoque: 8,
+        	fabricante: 'Casa & cia'
+    },
+    {
+		nome: 'Secador de cabelo',
+        	descricao: 'Cor Vermelha 2000w 110v',
+        	estoque: 17,
+        	fabricante: 'Belle Tech'
+    },
+    {
+		nome: 'Secador de cabelo',
+        	descricao: 'Cor Vermelha 2000w 110v',
+        	estoque: 17,
+        	fabricante: 'UltraBeauty'
+    },
+    {
+		nome: 'Máquina de costura',
+        	descricao: '9 pontos bivolt',
+        	estoque: 9,
+        	fabricante: 'Formidable'
+    },
+    {
+		nome: 'Forno Elétrico',
+        	descricao: '',
+        	estoque: 2,
+        	fabricante: 'Ultralar'
+    },
+    {
+		nome: 'Batedeira 400w',
+        	descricao: 'Premium profissional',
+        	estoque: 3,
+        	fabricante: 'Mundiale'
+    },
+    {
+		nome: 'Robo aspirador',
+        	descricao: 'autonomia para 4 horas',
+        	estoque: 2,
+        	fabricante: 'Mundiale'
+    },
+    {
+		nome: 'Lavadora de roupas 220',
+        	descricao: '220v com centrifugação',
+        	estoque: 3,
+        	fabricante: 'Mundiale'
+    },
+    {
+		nome: 'Lavadora de roupas 220',
+        	descricao: '220v com centrifugação',
+        	estoque: 3,
+        	fabricante: 'Mundiale'
+    },
+    {
+		nome: 'Lavadora de roupas 220',
+        	descricao: 'Com secagem',
+        	estoque: 3,
+        	fabricante: 'Ultralar'
+    },
+]);
+
+db.produto.updateOne(
+	{'nome': 'Ventilador de mesa', 'fabricante': 'Bons Ventos'},
+	{ $set: {'nome': 'Ventilador de mesa - Bons Tempos', 'estoque': 10}
+});
+db.produto.updateOne(
+	{'nome': 'Secador de cabelo'},
+	{ $set: {'nome': 'Secador de cabelo - atualizado', 'estoque': 100}
+});
+db.produto.updateMany(
+	{'nome': 'Lavadora de roupas 220'},
+  { $set: {'nome': 'Lavadora de roupas'}
+});
+
+
+db.produto.find({'nome': 'Robo aspirador'})
+db.produto.find({'nome': 'Lavadora de roupas'})
+db.produto.find({'nome': 'Lavadora de roupas', 'fabricante': 'Ultralar'})
+db.produto.find({'fabricante': 'Mundiale'})

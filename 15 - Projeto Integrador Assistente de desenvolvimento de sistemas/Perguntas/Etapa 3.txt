@@ -1,0 +1,22 @@
+Etapa 3
+1) Para entregar sua Atividade, clique no título "Etapa 3";
+2) Role até o final da página;
+3) Vá até o botão "Carregar arquivos". Prontinho, agora é só selecionar o arquivo correto no seu dispositivo.
+*
+Etapa 3
+ 
+Contexto
+Seguindo com o projeto de software, chegou a etapa em que de fato você consolidará seu sistema, realizando a programação das interfaces e das funcionalidades que não necessitem de banco de dados (ou que possam ser simuladas sem banco de dados).
+ 
+Atividade
+Use o projeto NetBeans desenvolvido anteriormente ou crie um novo projeto, transportando classes criadas anteriormente para ele. Implemente as telas com Java e todas as interações previstas, de acordo com o projeto de interfaces desenvolvido na etapa 2. É importante que o programa esteja funcional (não pode haver erros de compilação, e o usuário pode interagir com os elementos de tela e navegar entre telas).
+ 
+Entrega
+No espaço dedicado às entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) contendo o projeto NetBeans desenvolvido.
+ 
+Dica de leitura
+Para esta etapa, leia os conhecimentos da unidade curricular Desenvolver e organizar interface gráfica para aplicações desktop.
+ 
+Avaliação
+Nesta etapa, você será avaliado no indicador:
+Apresenta os resultados do Projeto Integrador com coerência, coesão e criatividade, propondo soluções inovadoras, a partir da visão crítica da atuação profissional no segmento.

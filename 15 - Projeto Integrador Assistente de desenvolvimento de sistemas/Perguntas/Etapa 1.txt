@@ -1,0 +1,40 @@
+Etapa 1
+1) Para entregar sua Atividade, clique no título "Etapa 1";
+2) Role até o final da página;
+3) Vá até o botão "Carregar arquivos". Prontinho, agora é só selecionar o arquivo correto no seu dispositivo.
+*
+Etapa 1
+ 
+Contexto
+É hora de colocar em prática os conhecimentos que foram e ainda estão sendo adquiridos nas unidades curriculares regulares. Neste projeto integrador (PI), seu objetivo será o de iniciar o desenvolvimento de um sistema desktop (para computador ou rede local), baseando-se na ideia que foi desenvolvida anteriormente ou partindo de uma nova ideia.
+ 
+Nesta primeira etapa, você deve retomar seu projeto, planejar as classes que serão necessárias no sistema e montar protótipos de algumas funcionalidades previstas.
+ 
+Atividade
+Você tem a opção de seguir com a ideia desenvolvida no primeiro PI ou aplicar uma nova ideia para sistema.
+ 
+Utilizando a ideia original: recupere o documento de requisitos desenvolvido no PI anterior. Revise todas as características e ajuste o que julgar necessário.
+Utilizando nova ideia: escreva um documento de projeto simples prevendo as características e os requisitos do sistema. Lembre-se de que ele deve contar com ao menos três funcionalidades (telas previstas) e ao menos três tipos de registro a serem armazenados com uso de banco de dados. Recomenda-se que o documento conte com as seguintes seções:
+Apresentação (introdução ao sistema)
+Descrição do projeto (descrição básica do sistema planejado)
+Descrição dos usuários (quem serão os usuários do sistema)
+Necessidades observadas e regras de negócio
+Requisitos funcionais
+Requisitos não funcionais
+ 
+Observação: o projeto será necessariamente programado na linguagem Java com banco e dados MySQL.
+ 
+Após a preparação do documento de projeto, faça o seguinte:
+Monte um diagrama simples de classes com as classes que você prevê para o sistema.
+Crie um projeto Java NetBeans e monte essas classes. Nesse momento, nem todas as funcionalidades precisam ser implementadas.
+Crie, na classe principal do projeto (em main()), um protótipo de ao menos uma das funcionalidades previstas nos requisitos do projeto.
+ 
+Entrega
+No espaço dedicado às entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) contendo o projeto NetBeans criado para a atividade e uma imagem com o diagrama UML (Unified Modeling Language) desenvolvido.
+ 
+Dica de leitura
+Para esta etapa, leia os conhecimentos da unidade curricular Desenvolver código orientado a objetos.
+ 
+Avaliação
+Nesta etapa, você será avaliado no indicador:
+Adota estratégias que evidenciam as Marcas Formativas Senac na resolução dos desafios apresentados.

@@ -1,0 +1,22 @@
+Etapa 2
+1) Para entregar sua Atividade, clique no título "Etapa 2";
+2) Role até o final da página;
+3) Vá até o botão "Carregar arquivos". Prontinho, agora é só selecionar o arquivo correto no seu dispositivo.
+*
+Etapa 2
+ 
+Contexto
+Após a definição do projeto e a criação das primeiras classes do projeto na etapa 1, é o momento de planejar a experiência do usuário e as interfaces das telas do sistema. Use, para isso, um estudo e um projeto de UX (user experience) e de UI (user interface) e aponte considerações sobre acessibilidade ao sistema.
+ 
+Atividade
+Elabore um projeto de usabilidade e de interfaces com wireframes, esquemas de cores e questões de acessibilidade. Esse projeto será, posteriormente, subsídio para a programação das telas do sistema. Use preferencialmente a ferramenta Figma para o desenho das telas. Considere o desenvolvimento de telas para um software desktop.
+ 
+Entrega
+No espaço dedicado às entregas da atividade, envie um arquivo compactado (ZIP, RAR ou 7z) contendo todos os recursos do seu projeto de interfaces.
+ 
+Dica de leitura
+Para esta etapa, leia os conhecimentos da unidade curricular Desenvolver projeto de interfaces para melhor experiência do usuário.
+ 
+Avaliação
+Nesta etapa, você será avaliado no indicador:
+Articula as competências do curso no desenvolvimento do Projeto Integrador.
