@@ -40,10 +40,10 @@ Desenvolvimento de aplicações desktop integradas a bancos de dados.
 ### 11 - Gerenciar a Configuração e Versionamento de Software
 Uso de ferramentas de controle de versão e práticas para gerenciamento eficiente de código-fonte.
 
-### 12 - Executar Testes e Realizar Melhorias em Aplicativos Computacionais
+### 12 - Executar Testes e Realizar Melhorias em Aplicativos Computacionais Desktop
 Técnicas de testes automatizados e manuais para garantir a qualidade do software.
 
-### 13 - Desenvolver e Organizar Interface de Usuário e Elementos Visuais para Web
+### 13 - Desenvolver e Organizar Interface de Usuário e Elementos Visuais para Web (Front-End)
 Criação de interfaces web responsivas e acessíveis.
 
 ### 14 - Programar Aplicativos Computacionais com Integração de Banco de Dados para Web (Back-End)
